@@ -1,0 +1,10 @@
+Ann, 100
+Benny, 160
+Carol, 60
+Darren, 129
+Tom, 203
+Jeff, 90
+Jeffords, 120
+Bertram, 10
+George, 1
+Larry, 5
